@@ -6,6 +6,6 @@ namespace CheckoutProject.Interface
     {
         long ItemId {get;set;}
         string ItemName {get;set;}
-        int ProductType {get;set;}
+        int ProductType {get;}
     }
 }

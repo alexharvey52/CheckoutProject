@@ -16,6 +16,6 @@ namespace CheckoutProject
 
         public long ItemId { get; set; }
         public string ItemName { get; set; }
-        public int ProductType {get => (int)ProductTypeEnum.Video; set => throw new NotImplementedException();}
+        public int ProductType {get => (int)ProductTypeEnum.Video;}
     }
 }
