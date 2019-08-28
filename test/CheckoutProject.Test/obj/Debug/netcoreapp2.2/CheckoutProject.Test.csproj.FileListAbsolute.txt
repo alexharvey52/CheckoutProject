@@ -1,0 +1,17 @@
+C:\Users\scriptingdesign\Documents\Development\CheckoutProject\test\CheckoutProject.Test\obj\Debug\netcoreapp2.2\CheckoutProject.Test.csprojAssemblyReference.cache
+C:\Users\scriptingdesign\Documents\Development\CheckoutProject\test\CheckoutProject.Test\obj\Debug\netcoreapp2.2\CheckoutProject.Test.csproj.CoreCompileInputs.cache
+C:\Users\scriptingdesign\Documents\Development\CheckoutProject\test\CheckoutProject.Test\obj\Debug\netcoreapp2.2\CheckoutProject.Test.AssemblyInfoInputs.cache
+C:\Users\scriptingdesign\Documents\Development\CheckoutProject\test\CheckoutProject.Test\obj\Debug\netcoreapp2.2\CheckoutProject.Test.AssemblyInfo.cs
+C:\Users\scriptingdesign\Documents\Development\CheckoutProject\test\CheckoutProject.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\scriptingdesign\Documents\Development\CheckoutProject\test\CheckoutProject.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\scriptingdesign\Documents\Development\CheckoutProject\test\CheckoutProject.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\scriptingdesign\Documents\Development\CheckoutProject\test\CheckoutProject.Test\bin\Debug\netcoreapp2.2\CheckoutProject.Test.deps.json
+C:\Users\scriptingdesign\Documents\Development\CheckoutProject\test\CheckoutProject.Test\bin\Debug\netcoreapp2.2\CheckoutProject.Test.runtimeconfig.json
+C:\Users\scriptingdesign\Documents\Development\CheckoutProject\test\CheckoutProject.Test\bin\Debug\netcoreapp2.2\CheckoutProject.Test.runtimeconfig.dev.json
+C:\Users\scriptingdesign\Documents\Development\CheckoutProject\test\CheckoutProject.Test\bin\Debug\netcoreapp2.2\CheckoutProject.Test.dll
+C:\Users\scriptingdesign\Documents\Development\CheckoutProject\test\CheckoutProject.Test\bin\Debug\netcoreapp2.2\CheckoutProject.Test.pdb
+C:\Users\scriptingdesign\Documents\Development\CheckoutProject\test\CheckoutProject.Test\bin\Debug\netcoreapp2.2\CheckoutProject.dll
+C:\Users\scriptingdesign\Documents\Development\CheckoutProject\test\CheckoutProject.Test\bin\Debug\netcoreapp2.2\CheckoutProject.pdb
+C:\Users\scriptingdesign\Documents\Development\CheckoutProject\test\CheckoutProject.Test\obj\Debug\netcoreapp2.2\CheckoutProject.Test.csproj.CopyComplete
+C:\Users\scriptingdesign\Documents\Development\CheckoutProject\test\CheckoutProject.Test\obj\Debug\netcoreapp2.2\CheckoutProject.Test.dll
+C:\Users\scriptingdesign\Documents\Development\CheckoutProject\test\CheckoutProject.Test\obj\Debug\netcoreapp2.2\CheckoutProject.Test.pdb
